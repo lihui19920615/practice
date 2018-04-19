@@ -1,2 +1,2 @@
 # practice
-just dio it
+just do it
